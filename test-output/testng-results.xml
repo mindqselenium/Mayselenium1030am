@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="10011" started-at="2019-07-18T06:26:30Z" finished-at="2019-07-18T06:26:40Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="10011" started-at="2019-07-18T06:26:30Z" finished-at="2019-07-18T06:26:40Z">
+      <class name="com.OHRMS.testcasescripts.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.OHRMS.testcasescripts.HomePageTest@6093dd95]" name="setup" is-config="true" duration-ms="9933" started-at="2019-07-18T06:26:30Z" finished-at="2019-07-18T06:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:1, instance:com.OHRMS.testcasescripts.HomePageTest@6093dd95]" name="verifyHomePageTitleTest" duration-ms="52" started-at="2019-07-18T06:26:40Z" finished-at="2019-07-18T06:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.OHRMS.testcasescripts.HomePageTest@6093dd95]" name="teardown" is-config="true" duration-ms="0" started-at="2019-07-18T06:26:40Z" finished-at="2019-07-18T06:26:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.OHRMS.testcasescripts.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
