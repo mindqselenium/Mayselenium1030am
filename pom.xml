@@ -4,8 +4,6 @@
 
   <groupId>ORANGEHRMS</groupId>
   <artifactId>OHRMS</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <packaging>jar</packaging>
 
   <name>OHRMS</name>
   <url>http://maven.apache.org</url>
@@ -60,6 +58,7 @@
     <groupId>org.testng</groupId>
     <artifactId>testng</artifactId>
     <version>6.14.2</version>
+    
     <scope>test</scope>
 </dependency>
     
@@ -79,4 +78,5 @@
 
     
   </dependencies>
+  <version>Build 1.0</version>
 </project>
