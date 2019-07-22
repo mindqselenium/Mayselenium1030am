@@ -6,3 +6,7 @@
 2019-07-22 11:50:16,349 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - loginpagetitlevalidation started
 2019-07-22 11:50:16,736 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - screenshot captured
 2019-07-22 11:50:18,459 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login testcase completed
+2019-07-22 11:58:48,407 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - initialization method started
+2019-07-22 11:58:55,971 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - loginpagetitlevalidation started
+2019-07-22 11:59:07,012 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - screenshot captured
+2019-07-22 11:59:11,272 [main] INFO com.OHRMS.testcasescripts.LoginPageTest - login testcase completed
